@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4cf4c30a-328c-476c-9f73-f6e6f4520531" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NZLpfSxs3rXleKzxopMER0xyHK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/degree_project/Federated-Averaging-PyTorch-Initial/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\degree_project\Federated-Averaging-PyTorch-Initial\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cf4c30a-328c-476c-9f73-f6e6f4520531" name="Changes" comment="" />
+      <created>1679866845669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679866845669</updated>
+      <workItem from="1679866869888" duration="4405000" />
+      <workItem from="1679909643247" duration="9238000" />
+      <workItem from="1679959533264" duration="3512000" />
+      <workItem from="1681151745371" duration="9655000" />
+      <workItem from="1681341339222" duration="327000" />
+      <workItem from="1681574247239" duration="28286000" />
+      <workItem from="1681819042425" duration="759000" />
+      <workItem from="1682285690434" duration="8707000" />
+      <workItem from="1682708875192" duration="1496000" />
+      <workItem from="1682771606642" duration="6676000" />
+      <workItem from="1682782888445" duration="3608000" />
+      <workItem from="1682786940785" duration="13146000" />
+      <workItem from="1683546842473" duration="5085000" />
+      <workItem from="1683729077871" duration="601000" />
+      <workItem from="1683740547805" duration="1826000" />
+      <workItem from="1684701550281" duration="3874000" />
+      <workItem from="1684787439510" duration="8948000" />
+      <workItem from="1685305057007" duration="6509000" />
+      <workItem from="1686225966052" duration="8159000" />
+      <workItem from="1688349930656" duration="357000" />
+      <workItem from="1699811327335" duration="7353000" />
+      <workItem from="1699867871354" duration="1007000" />
+      <workItem from="1700163566061" duration="663000" />
+      <workItem from="1700310232610" duration="3536000" />
+      <workItem from="1701085604945" duration="17982000" />
+      <workItem from="1704011689417" duration="1129000" />
+      <workItem from="1704016788616" duration="2867000" />
+      <workItem from="1704578807865" duration="8343000" />
+      <workItem from="1707713762545" duration="7324000" />
+      <workItem from="1707731190155" duration="2997000" />
+      <workItem from="1707754261516" duration="1526000" />
+      <workItem from="1707762183762" duration="3223000" />
+      <workItem from="1707795024737" duration="2580000" />
+      <workItem from="1718065366606" duration="360000" />
+      <workItem from="1718125491544" duration="456000" />
+      <workItem from="1718547488240" duration="1510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Federated_Averaging_PyTorch_Initial$main.coverage" NAME="main Coverage Results" MODIFIED="1707796793934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Federated_Averaging_PyTorch$main.coverage" NAME="main Coverage Results" MODIFIED="1682285963696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Federated_Averaging_PyTorch_Initial$server.coverage" NAME="server Coverage Results" MODIFIED="1686233731529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
