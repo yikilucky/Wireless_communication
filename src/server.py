@@ -249,9 +249,11 @@ class Server(object):
             # print(local_weights)
             for key in self.model.state_dict().keys():
                 if key not in averaged_weights.keys():
-                    averaged_weights[key] = local_weights[key]
+                    local_weights_copy = local_weights[key].clone()
+                    averaged_weights[key] = local_weights_copy
                 else:
-                    averaged_weights[key] += local_weights[key]
+                    local_weights_copy = local_weights[key].clone()
+                    averaged_weights[key] += local_weights_copy
         # print(k)
         for key in averaged_weights.keys():
             averaged_weights[key] *= 1 / k

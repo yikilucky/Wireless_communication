@@ -30,8 +30,9 @@ def create_clusters():
     num_parent_points += 1
 
     # Simulate Poisson point process for the daughters (ie final poiint process)
-    num_daughter_points = np.random.poisson(lambda_daughter, num_parent_points-1)
-    num_daughter_points = np.append(num_daughter_points, [100])
+    # num_daughter_points = np.random.poisson(lambda_daughter, num_parent_points-1)
+    num_daughter_points = np.full((num_parent_points - 1,), lambda_daughter, dtype=int)
+    num_daughter_points = np.append(num_daughter_points, [30])
     sum_daughters = sum(num_daughter_points)  # total number of points
 
 
